@@ -268,10 +268,10 @@ Task 43
 
 
 Task # 42
-    -> add strtotime for days in eo/ajax/get_purchase.php
+    ~~ -> add strtotime for days in eo/ajax/get_purchase.php
 
 Task # 41
-    -> Changes in eo/website_boxes/a_regs.php for Registration tab
-    -> add parameter in CountRegByMaleFemale() in eo/include/event_reg_functions.php
+    ~~ -> Changes in eo/website_boxes/a_regs.php for Registration tab
+    ~~ -> add parameter in CountRegByMaleFemale() in eo/include/event_reg_functions.php
 
 
